@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SqliteExample</string>
+    <string name="add_new_task">Adicionar Tarefa</string>
+    <string name="task_title">Titulo</string>
+    <string name="description">Descricao</string>
+    <string name="due_date">Data Limite</string>
+    <string name="priority">Prioridade</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+</resources>
