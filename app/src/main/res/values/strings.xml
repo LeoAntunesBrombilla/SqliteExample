@@ -1,10 +1,13 @@
 <resources>
-    <string name="app_name">SqliteExample</string>
-    <string name="add_new_task">Adicionar Tarefa</string>
-    <string name="task_title">Titulo</string>
-    <string name="description">Descricao</string>
-    <string name="due_date">Data Limite</string>
-    <string name="priority">Prioridade</string>
-    <string name="cancel">Cancelar</string>
-    <string name="save">Salvar</string>
+    <string name="app_name">SQLite Example</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="no_tasks">No tasks yet. Add one using the + button!</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_title">Title</string>
+    <string name="description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
